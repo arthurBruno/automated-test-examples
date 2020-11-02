@@ -7,7 +7,7 @@ Performing unit tests of functions with:
  - CRUD with MongoDB.
 
 
-## Technology 🤖 
+## Technologies 🤖 
  - Node.js (v12.16);
  - Mongoose;
  - MongoDB;
