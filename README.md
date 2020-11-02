@@ -12,6 +12,11 @@ Performing unit tests of functions with:
  - Mongoose;
  - MongoDB;
  - Mocha.
+
+
+## Credits :stars:
+ - API The 4 Pets - [Lucas Zacarias](https://github.com/ZackLucas "Lucas Zacarias GitHub Profile");
+ - API [Star Wars](https://swapi.dev/ "API Link").
  
 
 **Running the project locally:**
