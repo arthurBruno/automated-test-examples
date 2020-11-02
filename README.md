@@ -1,4 +1,4 @@
-## Automated Test :coffee:
+## Automated Tests :coffee:
 
 A project with some examples of automated tests using the Mocha library.
 Performing unit tests of functions with:
