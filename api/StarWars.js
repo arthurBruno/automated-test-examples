@@ -10,8 +10,8 @@ const getPeople = async (nome) => {
 
 const mapPeople = (item) => {
   return {
-      nome: item.name,
-      peso: item.height
+    name: item.name,
+    height: item.height
   };
 };
 
