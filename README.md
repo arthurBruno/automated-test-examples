@@ -16,6 +16,6 @@ Performing unit tests of functions with:
 
 **Running the project locally:**
  - Clone the repository;
- - Install mocha on the machine globally, to run the tests ʻnpm install -g mocha`;
+ - Install mocha on the machine globally, to run the tests `npm install -g mocha`;
  - Within the cloned directory, `npm install` to install the project dependencies;
  - Then `mocha file-name` to run the tests you want.
