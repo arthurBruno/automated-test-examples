@@ -9,8 +9,6 @@ const database = {
   MONGODB_HOST: 'localhost',
   MONGODB_PORT: '27017',
   MONGODB_DATABASE: 'retail-partner',
-  MONGODB_USER_NAME: 'retailPartnerSystem',
-  MONGODB_USER_PWD: 'retailPartnerSystem123'
 };
 
 module.exports = { ...url, ...database };
